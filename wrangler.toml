@@ -1,0 +1,8 @@
+name = "sample"
+type = "webpack"
+account_id = "e09344858d0cfd4679fed48fba01e13d"
+zone_id = "596c01acb1d1511c7d1f1704b5339671"
+workers_dev = true
+
+[site]
+bucket = "./public"
